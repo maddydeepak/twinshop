@@ -10,6 +10,8 @@ export const categories = [
   { id: "newMom", label: "New Mom" },
 ];
 
+// ❤️ Best Seller, ⭐ Top Pick, 👶 Twin Fav, 🔥 Must Have, 💰 Budget Pick
+// bestseller, toppick, twinfav, musthave, budgetpick
 export const products = [
   {
     id: 1,
@@ -19,11 +21,12 @@ export const products = [
     originalPrice: 34.99,
     rating: 4.8,
     reviews: 312,
-    badge: "Best Seller",
+    badge: "❤️ Best Seller",
     badgeType: "bestseller",
-    emoji: "images/bath.jpg",
+    image: "images/bath.jpg",
     description:
       "Ultra-soft 100% organic muslin, perfect for swaddling newborns. Breathable & gentle on sensitive skin.",
+    site: "Amazon",
     affiliate:
       "https://www.amazon.in/dp/B081QTNF7V?almBrandId=ctnow&ref=ppx_yo2ov_dt_b_fed_wwgs_yo_dp_A21TJRUUN4KGV_ctnow&fpw=alm&th=1",
   },
@@ -35,9 +38,9 @@ export const products = [
     originalPrice: null,
     rating: 4.7,
     reviews: 528,
-    badge: "Top Rated",
-    badgeType: "toprated",
-    emoji: "images/diapers.jpg",
+    badge: "⭐ Top Pick",
+    badgeType: "toppick",
+    image: "images/diapers.jpg",
     description:
       "Clinically proven anti-colic vent system. BPA-free & dishwasher safe. Set of 3 bottles.",
     affiliate: "https://amazon.com",
@@ -50,9 +53,9 @@ export const products = [
     originalPrice: 19.99,
     rating: 4.9,
     reviews: 204,
-    badge: "New",
-    badgeType: "new",
-    emoji: "🐘",
+    badge: "👶 Twin Fav",
+    badgeType: "twinfav",
+    image: "🐘",
     description:
       "Soft sensory rattle with crinkle ears and gentle chime. Safe for 0+ months.",
     affiliate: "https://amazon.com",
@@ -65,9 +68,9 @@ export const products = [
     originalPrice: null,
     rating: 4.6,
     reviews: 890,
-    badge: "Best Seller",
+    badge: "❤️ Best Seller",
     badgeType: "bestseller",
-    emoji: "🧴",
+    image: "🧴",
     description:
       "Tear-free, hypoallergenic formula with chamomile. Dermatologist-tested for newborns.",
     affiliate: "https://amazon.com",
@@ -80,9 +83,9 @@ export const products = [
     originalPrice: 39.99,
     rating: 4.8,
     reviews: 176,
-    badge: "Sale",
-    badgeType: "sale",
-    emoji: "👶",
+    badge: "👶 Twin Fav",
+    badgeType: "twinfav",
+    image: "👶",
     description:
       "Soft ribbed cotton with easy zip closure. Available in 0–18 months. Machine washable.",
     affiliate: "https://amazon.com",
@@ -95,9 +98,9 @@ export const products = [
     originalPrice: 99.99,
     rating: 4.5,
     reviews: 143,
-    badge: "Sale",
-    badgeType: "sale",
-    emoji: "🪑",
+    badge: "🔥 Must Have",
+    badgeType: "musthave",
+    image: "🪑",
     description:
       "Lightweight 5-point harness bouncer with 3 recline positions. Folds flat for travel.",
     affiliate: "https://amazon.com",
@@ -110,9 +113,9 @@ export const products = [
     originalPrice: null,
     rating: 4.7,
     reviews: 361,
-    badge: "Top Rated",
-    badgeType: "toprated",
-    emoji: "🥣",
+    badge: "⭐ Top Pick",
+    badgeType: "toppick",
+    image: "🥣",
     description:
       "Strong suction base stays put during self-feeding. Food-grade silicone, freezer safe.",
     affiliate: "https://amazon.com",
@@ -125,9 +128,9 @@ export const products = [
     originalPrice: 44.99,
     rating: 4.9,
     reviews: 675,
-    badge: "Best Seller",
+    badge: "❤️ Best Seller",
     badgeType: "bestseller",
-    emoji: "🌙",
+    image: "🌙",
     description:
       "30 soothing sounds, auto-timer, night light. Compact design fits any nursery.",
     affiliate: "https://amazon.com",
@@ -140,9 +143,9 @@ export const products = [
     originalPrice: null,
     rating: 4.6,
     reviews: 118,
-    badge: "New",
-    badgeType: "new",
-    emoji: "📸",
+    badge: "🔥 Must Have",
+    badgeType: "musthave",
+    image: "📸",
     description:
       "60 beautifully illustrated cards to capture your baby's first-year moments.",
     affiliate: "https://amazon.com",
@@ -155,9 +158,9 @@ export const products = [
     originalPrice: 13.99,
     rating: 4.7,
     reviews: 442,
-    badge: "Sale",
-    badgeType: "sale",
-    emoji: "🌸",
+    badge: "💰 Budget Pick",
+    badgeType: "budgetpick",
+    image: "🌸",
     description:
       "Shea butter & oat extract formula. 24hr hydration, fragrance-free, eczema-safe.",
     affiliate: "https://amazon.com",
@@ -170,9 +173,9 @@ export const products = [
     originalPrice: 69.99,
     rating: 4.8,
     reviews: 289,
-    badge: "Best Seller",
+    badge: "❤️ Best Seller",
     badgeType: "bestseller",
-    emoji: "🤱",
+    image: "🤱",
     description:
       "Ergonomic hip-seat carrier. Supports newborn to 3 years. Breathable mesh fabric.",
     affiliate: "https://amazon.com",
@@ -185,9 +188,9 @@ export const products = [
     originalPrice: null,
     rating: 4.9,
     reviews: 97,
-    badge: "New",
-    badgeType: "new",
-    emoji: "🧤",
+    badge: "💰 Budget Pick",
+    badgeType: "budgetpick",
+    image: "🧤",
     description:
       "100% organic cotton knit. Keeps tiny hands warm. Perfect newborn gift set.",
     affiliate: "https://amazon.com",

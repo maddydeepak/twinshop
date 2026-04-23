@@ -581,17 +581,21 @@ img {
   background: var(--pink);
   color: white;
 }
-.badge-toprated {
+.badge-toppick {
   background: var(--mint);
   color: #2d7a5e;
 }
-.badge-new {
+.badge-musthave {
   background: var(--lavender);
   color: #6a3d9a;
 }
-.badge-sale {
+.badge-budgetpick {
   background: var(--yellow);
   color: #8a6d00;
+}
+.badge-twinfav {
+  background: var(--peach);
+  color: #15008a;
 }
 
 .card-wishlist {

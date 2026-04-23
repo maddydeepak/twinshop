@@ -16,17 +16,17 @@ export default function ProductCard({ product, animDelay = 0 }) {
   const badgeClass =
     {
       bestseller: "badge-bestseller",
-      toprated: "badge-toprated",
-      new: "badge-new",
-      sale: "badge-sale",
-    }[product.badgeType] || "badge-new";
+      toppick: "badge-toppick",
+      twinfav: "badge-twinfav",
+      musthave: "badge-musthave",
+      budgetpick: "badge-budgetpick",
+    }[product.badgeType] || "badge-bestseller";
 
   return (
     <div className="product-card" style={{ animationDelay: `${animDelay}ms` }}>
       {/* Image area */}
       <div className="card-image">
-        {/* <span className="card-image-inner">{product.emoji}</span> */}
-        <img className="card-image-inner" src={product.emoji} />
+        <img className="card-image-inner" src={product.image} />
         {product.badge && (
           <span className={`card-badge ${badgeClass}`}>{product.badge}</span>
         )}
@@ -59,7 +59,7 @@ export default function ProductCard({ product, animDelay = 0 }) {
           rel="noopener noreferrer"
           aria-label={`Buy ${product.name}`}
         >
-          🛒 Buy Now
+          🛒 Check on {product.site}
         </a>
       </div>
     </div>
