@@ -3,12 +3,12 @@ import { categories } from "../data/products";
 
 const NAV_LINKS = [
   { label: "Feeding", href: "#products", icon: "🍼" },
-  { label: "Clothing", href: "#products", icon: "👶" },
+  { label: "Clothing", href: "#products", icon: "👚" },
   { label: "Toys", href: "#products", icon: "🐘" },
   { label: "Skincare", href: "#products", icon: "🌸" },
-  { label: "Gear", href: "#products", icon: "🤱" },
-  { label: "Diapers", href: "#products", icon: "🤱" },
-  { label: "Safety", href: "#products", icon: "🤱" },
+  { label: "Gear", href: "#products", icon: "👨🏻‍🍼" },
+  { label: "Diapers", href: "#products", icon: "🚼" },
+  { label: "Safety", href: "#products", icon: "🛡️" },
   { label: "New Mom", href: "#products", icon: "🤱" },
 ];
 
@@ -45,7 +45,7 @@ export default function Navbar({ activeCategory, onCategoryChange }) {
         <div className="container">
           {/* Logo */}
           <a href="#" className="nav-logo">
-            <div className="nav-logo-icon">🍼</div>
+            <div className="nav-logo-icon">👯</div>
             <span className="nav-logo-text">
               Twin<span>Shop</span>
             </span>
@@ -103,7 +103,7 @@ export default function Navbar({ activeCategory, onCategoryChange }) {
         {/* Header */}
         <div className="overlay-header">
           <a href="#" className="nav-logo" onClick={closeMenu}>
-            <div className="nav-logo-icon">🍼</div>
+            <div className="nav-logo-icon">👯</div>
             <span className="nav-logo-text">
               Twin<span>Shop</span>
             </span>

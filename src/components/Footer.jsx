@@ -3,14 +3,14 @@ export default function Footer() {
     <footer className="footer">
       <div className="container">
         <div className="footer-brand">
-          <div className="footer-logo-icon">🍼</div>
+          <div className="footer-logo-icon">👯</div>
           <span className="footer-logo-text">TwinShop</span>
         </div>
         <p className="footer-tagline">
           Carefully curated baby products for your little one's every journey.
         </p>
 
-        <div className="footer-cols">
+        {/* <div className="footer-cols">
           <div className="footer-col">
             <h4>Shop</h4>
             <a href="#products">New Arrivals</a>
@@ -32,22 +32,22 @@ export default function Footer() {
             <a href="#">Safety Guide</a>
             <a href="#">Blog</a>
           </div>
-          {/* <div className="footer-col">
+          <div className="footer-col">
             <h4>Support</h4>
             <a href="#">Contact Us</a>
             <a href="#">Returns</a>
             <a href="#">Track Order</a>
             <a href="#">FAQ</a>
-          </div> */}
-        </div>
+          </div>
+        </div> */}
 
         <div className="footer-bottom">
           {/* <p className="footer-copy">© 2025 TwinShop. All rights reserved.</p> */}
           <p className="footer-disclaimer">
-            <b>Disclaimer:</b> Links are affiliate links, so we may earn a
-            commission at no extra cost to you. Product images and trademarks
-            belong to their owners. Please verify details on the official
-            website.
+            <b>Disclaimer:</b> All product links are affiliate links, so we may
+            earn a commission at no extra cost to you. Product images and
+            trademarks belong to their respective owners. Please verify all
+            details on the official website.
           </p>
         </div>
       </div>

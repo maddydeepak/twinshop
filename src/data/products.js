@@ -13,30 +13,31 @@ export const categories = [
 export const products = [
   {
     id: 1,
-    name: "Organic Cotton Swaddle Blanket",
-    category: "sleep",
+    name: "Baby bath Shower Cap",
+    category: "Safety",
     price: 24.99,
     originalPrice: 34.99,
     rating: 4.8,
     reviews: 312,
     badge: "Best Seller",
     badgeType: "bestseller",
-    emoji: "🌿",
+    emoji: "images/bath.jpg",
     description:
       "Ultra-soft 100% organic muslin, perfect for swaddling newborns. Breathable & gentle on sensitive skin.",
-    affiliate: "https://amazon.com",
+    affiliate:
+      "https://www.amazon.in/dp/B081QTNF7V?almBrandId=ctnow&ref=ppx_yo2ov_dt_b_fed_wwgs_yo_dp_A21TJRUUN4KGV_ctnow&fpw=alm&th=1",
   },
   {
     id: 2,
     name: "Anti-Colic Feeding Bottle Set",
-    category: "feeding",
+    category: "diapers",
     price: 32.99,
     originalPrice: null,
     rating: 4.7,
     reviews: 528,
     badge: "Top Rated",
     badgeType: "toprated",
-    emoji: "🍼",
+    emoji: "images/diapers.jpg",
     description:
       "Clinically proven anti-colic vent system. BPA-free & dishwasher safe. Set of 3 bottles.",
     affiliate: "https://amazon.com",
