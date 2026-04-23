@@ -13,7 +13,8 @@ export default function ProductsSection({ activeCategory, onCategoryChange }) {
       <div className="container">
         <h2 className="section-title">Our Top Picks 🌟</h2>
         <p className="section-subtitle">
-          Handpicked, parent-trusted products for every little milestone
+          Handpicked by twin parents - trusted products for every little
+          milestone
         </p>
 
         {/* Category Filter */}

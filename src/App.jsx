@@ -16,7 +16,7 @@ export default function App() {
         activeCategory={activeCategory}
         onCategoryChange={setActiveCategory}
       />
-      <HeroBanner />
+      {/* <HeroBanner /> */}
       {/* <TrustStrip /> */}
       <ProductsSection
         activeCategory={activeCategory}
