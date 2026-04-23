@@ -2,14 +2,14 @@ import { useState, useEffect } from "react";
 import { categories } from "../data/products";
 
 const NAV_LINKS = [
-  { label: "Home",      href: "#",           icon: "🏠" },
-  { label: "New In",    href: "#products",   icon: "✨" },
-  { label: "Feeding",   href: "#products",   icon: "🍼" },
-  { label: "Sleep",     href: "#products",   icon: "🌙" },
-  { label: "Clothing",  href: "#products",   icon: "👶" },
-  { label: "Toys",      href: "#products",   icon: "🐘" },
-  { label: "Skincare",  href: "#products",   icon: "🌸" },
-  { label: "Gear",      href: "#products",   icon: "🤱" },
+  { label: "Feeding", href: "#products", icon: "🍼" },
+  { label: "Clothing", href: "#products", icon: "👶" },
+  { label: "Toys", href: "#products", icon: "🐘" },
+  { label: "Skincare", href: "#products", icon: "🌸" },
+  { label: "Gear", href: "#products", icon: "🤱" },
+  { label: "Diapers", href: "#products", icon: "🤱" },
+  { label: "Safety", href: "#products", icon: "🤱" },
+  { label: "New Mom", href: "#products", icon: "🤱" },
 ];
 
 export default function Navbar({ activeCategory, onCategoryChange }) {
@@ -25,7 +25,9 @@ export default function Navbar({ activeCategory, onCategoryChange }) {
   // Prevent body scroll when menu is open
   useEffect(() => {
     document.body.style.overflow = menuOpen ? "hidden" : "";
-    return () => { document.body.style.overflow = ""; };
+    return () => {
+      document.body.style.overflow = "";
+    };
   }, [menuOpen]);
 
   const closeMenu = () => setMenuOpen(false);
@@ -69,8 +71,6 @@ export default function Navbar({ activeCategory, onCategoryChange }) {
 
           {/* Actions */}
           <div className="nav-actions">
-            <button className="nav-icon-btn" aria-label="Search">🔍</button>
-            <button className="nav-icon-btn nav-cart-count" aria-label="Cart">🛒</button>
             {/* Hamburger — mobile only */}
             <button
               className={`hamburger${menuOpen ? " open" : ""}`}
@@ -108,13 +108,30 @@ export default function Navbar({ activeCategory, onCategoryChange }) {
               Twin<span>Shop</span>
             </span>
           </a>
-          <button className="overlay-close" onClick={closeMenu} aria-label="Close menu">
+          <button
+            className="overlay-close"
+            onClick={closeMenu}
+            aria-label="Close menu"
+          >
             ✕
           </button>
         </div>
 
         {/* Nav Links */}
         <nav className="overlay-nav">
+          <p
+            style={{
+              fontSize: "0.72rem",
+              fontWeight: 800,
+              textTransform: "uppercase",
+              letterSpacing: "1px",
+              color: "var(--text-soft)",
+              marginBottom: "6px",
+              textAlign: "center",
+            }}
+          >
+            Shop by Category
+          </p>
           {NAV_LINKS.map((link) => (
             <a
               key={link.label}
@@ -128,35 +145,13 @@ export default function Navbar({ activeCategory, onCategoryChange }) {
               {link.label}
             </a>
           ))}
-
-          <div className="overlay-divider" />
-
-          {/* Category quick-links */}
-          <div style={{ padding: "8px 24px 4px" }}>
-            <p style={{ fontSize: "0.72rem", fontWeight: 800, textTransform: "uppercase", letterSpacing: "1px", color: "var(--text-soft)", marginBottom: "6px" }}>
-              Shop by Category
-            </p>
-          </div>
-          {categories.filter((c) => c.id !== "all").map((cat) => (
-            <a
-              key={cat.id}
-              href="#products"
-              className={activeCategory === cat.id ? "active" : ""}
-              onClick={(e) => {
-                e.preventDefault();
-                handleCategoryClick(cat.id);
-              }}
-              style={{ paddingLeft: "36px", fontSize: "0.88rem" }}
-            >
-              {cat.label}
-            </a>
-          ))}
         </nav>
 
         {/* Footer */}
         <div className="overlay-footer">
-          <p>Made with ❤️ for <strong>tiny adventurers</strong></p>
-          <p style={{ marginTop: "4px" }}>Free delivery on orders over ₹999</p>
+          <p>
+            Made with ❤️ for <strong>tiny adventurers</strong>
+          </p>
         </div>
       </aside>
     </>

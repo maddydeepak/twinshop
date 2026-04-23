@@ -1,11 +1,13 @@
 export const categories = [
   { id: "all", label: "All" },
   { id: "feeding", label: "Feeding" },
-  { id: "sleep", label: "Sleep" },
   { id: "clothing", label: "Clothing" },
   { id: "toys", label: "Toys" },
   { id: "skincare", label: "Skincare" },
   { id: "gear", label: "Gear" },
+  { id: "diapers", label: "Diapers" },
+  { id: "safety", label: "Safety" },
+  { id: "newMom", label: "New Mom" },
 ];
 
 export const products = [
