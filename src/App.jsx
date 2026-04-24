@@ -1,10 +1,10 @@
 import { useState } from "react";
 import "./App.css";
 import Navbar from "./components/Navbar";
-import HeroBanner from "./components/HeroBanner";
-import TrustStrip from "./components/TrustStrip";
+// import HeroBanner from "./components/HeroBanner";
+// import TrustStrip from "./components/TrustStrip";
 import ProductsSection from "./components/ProductsSection";
-import Newsletter from "./components/Newsletter";
+// import Newsletter from "./components/Newsletter";
 import Footer from "./components/Footer";
 
 export default function App() {

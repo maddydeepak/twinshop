@@ -7,7 +7,7 @@ export const categories = [
   { id: "gear", label: "Gear" },
   { id: "diapers", label: "Diapers" },
   { id: "safety", label: "Safety" },
-  { id: "newMom", label: "New Mom" },
+  { id: "mom", label: "Mom" },
 ];
 
 // ❤️ Best Seller, ⭐ Top Pick, 👶 Twin Fav, 🔥 Must Have, 💰 Budget Pick
@@ -16,11 +16,7 @@ export const products = [
   {
     id: 1,
     name: "Baby bath Shower Cap",
-    category: "Safety",
-    price: 24.99,
-    originalPrice: 34.99,
-    rating: 4.8,
-    reviews: 312,
+    category: "Mom",
     badge: "❤️ Best Seller",
     badgeType: "bestseller",
     image: "images/bath.jpg",

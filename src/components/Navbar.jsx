@@ -9,7 +9,7 @@ const NAV_LINKS = [
   { label: "Gear", href: "#products", icon: "👨🏻‍🍼" },
   { label: "Diapers", href: "#products", icon: "🚼" },
   { label: "Safety", href: "#products", icon: "🛡️" },
-  { label: "New Mom", href: "#products", icon: "🤱" },
+  { label: "Mom", href: "#products", icon: "🤱" },
 ];
 
 export default function Navbar({ activeCategory, onCategoryChange }) {
