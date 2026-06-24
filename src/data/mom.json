@@ -1,0 +1,112 @@
+[
+  {
+    "id": "mom-1",
+    "name": "Postpartum Panjiri",
+    "category": "Mom",
+    "badge": "❤️ Best Seller",
+    "badgeType": "bestseller",
+    "image": "images/mom/PostpartumPanjiri.png",
+    "site": "Amazon",
+    "affiliateLink": "https://www.amazon.in/dp/B0BDTW32QW?th=1&linkCode=ll2&tag=amzn24704-21&linkId=6c2b4036c9978ec53e42fbd31bec7a1d&ref_=as_li_ss_tl"
+  },
+  {
+    "id": "mom-2",
+    "name": "Postpartum Ajwain (Carom Seeds) Laddoos",
+    "category": "Mom",
+    "badge": "⭐ Top Pick",
+    "badgeType": "toppick",
+    "image": "images/mom/PostpartumAjwain(CaromSeeds)Laddoos.png",
+    "site": "Amazon",
+    "affiliateLink": "https://www.amazon.in/dp/B0BDTW8LKS?th=1&linkCode=ll2&tag=amzn24704-21&linkId=781dd21babfdf4f83fd22e17d98ff0a7&ref_=as_li_ss_tl"
+  },
+  {
+    "id": "mom-3",
+    "name": "Postpartum Gond Laddu (Dink or Edible Gum)",
+    "category": "Mom",
+    "badge": "💰 Budget Pick",
+    "badgeType": "budgetpick",
+    "image": "images/mom/PostpartumGondLaddu(DinkorEdibleGum).png",
+    "site": "Amazon",
+    "affiliateLink": "https://www.amazon.in/dp/B0BDTT5FXB?th=1&linkCode=ll2&tag=amzn24704-21&linkId=299d00b7db1b5f481f46f597a5eea6f2&ref_=as_li_ss_tl"
+  },
+  {
+    "id": "mom-4",
+    "name": "Lactify Lactation Protein Powder with Shatavari",
+    "category": "Mom",
+    "badge": "⭐ Top Pick",
+    "badgeType": "toppick",
+    "image": "images/mom/LactifyLactationProteinPowderwithShatavari.png",
+    "site": "Amazon",
+    "affiliateLink": "https://www.amazon.in/dp/B0FDCJHCVF?th=1&linkCode=ll2&tag=amzn24704-21&linkId=5e0d0c3bf15fdeadc5f034c1f746082a&ref_=as_li_ss_tl"
+  },
+  {
+    "id": "mom-5",
+    "name": "Baby Breast Milk Storage Bags",
+    "category": "Mom",
+    "badge": "🔥 Must Have",
+    "badgeType": "musthave",
+    "image": "images/mom/BabyBreastMilkStorageBags.png",
+    "site": "Amazon",
+    "affiliateLink": "https://www.amazon.in/dp/B099ZVTNCP?th=1&linkCode=ll2&tag=amzn24704-21&linkId=5751f5ff5ff6a2f95c17c64bcc52630b&ref_=as_li_ss_tl"
+  },
+  {
+    "id": "mom-6",
+    "name": "Women's Cotton Maternity Nighty",
+    "category": "Mom",
+    "badge": "❤️ Best Seller",
+    "badgeType": "bestseller",
+    "image": "images/mom/Women'sCottonMaternityNighty.png",
+    "site": "Amazon",
+    "affiliateLink": "https://www.amazon.in/dp/B08H2JLVKK?th=1&psc=1&linkCode=ll2&tag=amzn24704-21&linkId=efedaba51706a9425df1c6b6522d87d9&ref_=as_li_ss_tl"
+  },
+  {
+    "id": "mom-7",
+    "name": "Women's Cotton Feeding Nighty",
+    "category": "Mom",
+    "badge": "❤️ Best Seller",
+    "badgeType": "bestseller",
+    "image": "images/mom/Women'sCottonFeedingNighty.png",
+    "site": "Amazon",
+    "affiliateLink": "https://www.amazon.in/dp/B08K7KMV69?th=1&psc=1&linkCode=ll2&tag=amzn24704-21&linkId=b66bf19fef8e2f07c8979071bc21cfba&ref_=as_li_ss_tl"
+  },
+  {
+    "id": "mom-8",
+    "name": "Women's Cotton Printed Feeding Nursing Maternity Nighty",
+    "category": "Mom",
+    "badge": "💰 Budget Pick",
+    "badgeType": "budgetpick",
+    "image": "images/mom/Women'sCottonPrintedFeedingNursingMaternityNighty.png",
+    "site": "Amazon",
+    "affiliateLink": "https://www.amazon.in/dp/B07GZNV9MB?th=1&psc=1&linkCode=ll2&tag=amzn24704-21&linkId=4d9271ff4e5fc39159515b7ee40a76ad&ref_=as_li_ss_tl"
+  },
+  {
+    "id": "mom-9",
+    "name": "Nursing Breast Pads",
+    "category": "Mom",
+    "badge": "🔥 Must Have",
+    "badgeType": "musthave",
+    "image": "images/mom/NursingBreastPads.png",
+    "site": "Amazon",
+    "affiliateLink": "https://www.amazon.in/dp/B08S42B9CL?th=1&linkCode=ll2&tag=amzn24704-21&linkId=a70361eea95663137f5586a1ca442813&ref_=as_li_ss_tl"
+  },
+  {
+    "id": "mom-10",
+    "name": "Thermosteel Water Bottle",
+    "category": "Mom",
+    "badge": "🔥 Must Have",
+    "badgeType": "musthave",
+    "image": "images/mom/ThermosteelWaterBottle.png",
+    "site": "Amazon",
+    "affiliateLink": "https://www.amazon.in/dp/B00NIWHQVI?th=1&linkCode=ll2&tag=amzn24704-21&linkId=5623f3c9fc06b720f645eaf3ffd2a4f1&ref_=as_li_ss_tl"
+  },
+  {
+    "id": "mom-11",
+    "name": "Toilet Seat Sanitizer",
+    "category": "Mom",
+    "badge": "🔥 Must Have",
+    "badgeType": "musthave",
+    "image": "images/mom/ToiletSeatSanitizer.png",
+    "site": "Amazon",
+    "affiliateLink": "https://www.amazon.in/dp/B07C5MCD4W?th=1&linkCode=ll2&tag=amzn24704-21&linkId=82b5a93207815776f35365af61f51b5e&ref_=as_li_ss_tl"
+  }
+]

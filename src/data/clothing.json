@@ -1,0 +1,102 @@
+[
+  {
+    "id": "clothing-1",
+    "name": "Mee Mee Baby Liquid Detergent",
+    "category": "Clothing",
+    "badge": "🔥 Must Have",
+    "badgeType": "musthave",
+    "image": "images/clothing/MeeMeeBabyLiquidDetergent.png",
+    "site": "Amazon",
+    "affiliateLink": "https://www.amazon.in/dp/B0789J9K2B?almBrandId=qqfsWw9RkO&fpw=alm&th=1&linkCode=ll2&tag=amzn24704-21&linkId=e193316596bded8f9e72df9dbe21881b&ref_=as_li_ss_tl"
+  },
+  {
+    "id": "clothing-2",
+    "name": "Baby Girls South Indian Silk Frock",
+    "category": "Clothing",
+    "badge": "👶 Twin Fav",
+    "badgeType": "twinfav",
+    "image": "images/clothing/BabyGirlsSouthIndianSilkFrock.png",
+    "site": "Amazon",
+    "affiliateLink": "https://www.amazon.in/dp/B0D7HKY87G?th=1&psc=1&linkCode=ll2&tag=amzn24704-21&linkId=a61980d82417ad3ba140c0925fafe726&ref_=as_li_ss_tl"
+  },
+  {
+    "id": "clothing-3",
+    "name": "Mee Mee Baby Liquid Detergent 1.5 L",
+    "category": "Clothing",
+    "badge": "❤️ Best Seller",
+    "badgeType": "bestseller",
+    "image": "images/clothing/MeeMeeBabyLiquidDetergent1.5L.png",
+    "site": "Amazon",
+    "affiliateLink": "https://www.amazon.in/dp/B0789HXX16?th=1&linkCode=ll2&tag=amzn24704-21&linkId=1a2acd09d2dd01e41c5216c50111057c&ref_=as_li_ss_tl"
+  },
+  {
+    "id": "clothing-4",
+    "name": "Baby Muslin Washcloths",
+    "category": "Clothing",
+    "badge": "⭐ Top Pick",
+    "badgeType": "toppick",
+    "image": "images/clothing/BabyMuslinWashcloths.png",
+    "site": "Amazon",
+    "affiliateLink": "https://www.amazon.in/dp/B0DM5CH7NF?th=1&linkCode=ll2&tag=amzn24704-21&linkId=3d5ded5aeec16efea650daaaaf3586b3&ref_=as_li_ss_tl"
+  },
+  {
+    "id": "clothing-5",
+    "name": "Cotton Full Sleeve Sleepsuit",
+    "category": "Clothing",
+    "badge": "⭐ Top Pick",
+    "badgeType": "toppick",
+    "image": "images/clothing/CottonFullSleeveSleepsuit.png",
+    "site": "Amazon",
+    "affiliateLink": "https://www.amazon.in/dp/B08RSCN3S9?th=1&psc=1&linkCode=ll2&tag=amzn24704-21&linkId=0d72be8d5c20e242d6a546ce02ca5a5f&ref_=as_li_ss_tl"
+  },
+  {
+    "id": "clothing-6",
+    "name": "Cotton Full Sleeve Romper",
+    "category": "Clothing",
+    "badge": "👶 Twin Fav",
+    "badgeType": "twinfav",
+    "image": "images/clothing/CottonFullSleeveRomper.png",
+    "site": "Amazon",
+    "affiliateLink": "https://www.amazon.in/dp/B0DP8QLLTF?th=1&psc=1&linkCode=ll2&tag=amzn24704-21&linkId=10fe13bdf19dcce630b981247e2625e7&ref_=as_li_ss_tl"
+  },
+  {
+    "id": "clothing-7",
+    "name": "Cotton Rompers Sleepsuits",
+    "category": "Clothing",
+    "badge": "👶 Twin Fav",
+    "badgeType": "twinfav",
+    "image": "images/clothing/CottonRompersSleepsuits.png",
+    "site": "Amazon",
+    "affiliateLink": "https://www.amazon.in/dp/B07ZFMYR66?th=1&psc=1&linkCode=ll2&tag=amzn24704-21&linkId=d68981f6e549e50850e1704529a4b9a5&ref_=as_li_ss_tl"
+  },
+  {
+    "id": "clothing-8",
+    "name": "Cotton Full Sleeve Romper2",
+    "category": "Clothing",
+    "badge": "⭐ Top Pick",
+    "badgeType": "toppick",
+    "image": "images/clothing/CottonFullSleeveRomper2.png",
+    "site": "Amazon",
+    "affiliateLink": "https://www.amazon.in/dp/B0DPHYSJL8?th=1&psc=1&linkCode=ll2&tag=amzn24704-21&linkId=2ad6a8ad3ffe4f5fa5de70a341ddce53&ref_=as_li_ss_tl"
+  },
+  {
+    "id": "clothing-9",
+    "name": "Cotton Full Sleeve Romper3",
+    "category": "Clothing",
+    "badge": "❤️ Best Seller",
+    "badgeType": "bestseller",
+    "image": "images/clothing/CottonFullSleeveRomper3.png",
+    "site": "Amazon",
+    "affiliateLink": "https://www.amazon.in/dp/B0DQKXY6WW?th=1&psc=1&linkCode=ll2&tag=amzn24704-21&linkId=1db9732b9dff3b8476dc8176c04ecace&ref_=as_li_ss_tl"
+  },
+  {
+    "id": "clothing-10",
+    "name": "Cotton Muslin Baby Swaddle",
+    "category": "Clothing",
+    "badge": "💰 Budget Pick",
+    "badgeType": "budgetpick",
+    "image": "images/clothing/CottonMuslinBabySwaddle.png",
+    "site": "Amazon",
+    "affiliateLink": "https://www.amazon.in/dp/B09PLBXKFG?th=1&linkCode=ll2&tag=amzn24704-21&linkId=8fbd949adfe0561d1c53d5840c427e50&ref_=as_li_ss_tl"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "id": "diapers-1",
+    "name": "Mee Mee Wet Wipes",
+    "category": "Diapers",
+    "badge": "🔥 Must Have",
+    "badgeType": "musthave",
+    "image": "images/diapers/MeeMeeWetWipes.png",
+    "site": "Amazon",
+    "affiliateLink": "https://www.amazon.in/dp/B07X34F9MF?almBrandId=qqfsWw9RkO&fpw=alm&th=1&linkCode=ll2&tag=amzn24704-21&linkId=72b3e933f6ff53fb66f0e8ff406465e2&ref_=as_li_ss_tl"
+  },
+  {
+    "id": "diapers-2",
+    "name": "Pampers Active Baby Taped Diapers",
+    "category": "Diapers",
+    "badge": "⭐ Top Pick",
+    "badgeType": "toppick",
+    "image": "images/diapers/PampersActiveBabyTapedDiapers.png",
+    "site": "Amazon",
+    "affiliateLink": "https://www.amazon.in/dp/B081QTNF7V?almBrandId=ctnow&fpw=alm&th=1&linkCode=ll2&tag=amzn24704-21&linkId=563ab100ab8580b78b53a6fc5070d14e&ref_=as_li_ss_tl"
+  }
+]

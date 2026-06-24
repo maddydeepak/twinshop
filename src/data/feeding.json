@@ -1,0 +1,72 @@
+[
+  {
+    "id": "feeding-1",
+    "name": "Mee Mee Baby Liquid Cleanser",
+    "category": "Feeding",
+    "badge": "🔥 Must Have",
+    "badgeType": "musthave",
+    "image": "images/feeding/MeeMeeBabyLiquidCleanser.png",
+    "site": "Amazon",
+    "affiliateLink": "https://www.amazon.in/Mee-Anti-Bacterial-Baby-Liquid-Cleanser/dp/B0799G72T4?almBrandId=ctnow&crid=3KY8B6O8IJJS8&dib=eyJ2IjoiMSJ9.S6cF0Sfy19mrR1jHA2UYORvzNMbNMbMzPoTWLTAb0hM9n1HcAzmFC0u0i3KcNKOfsjFZPoxfpiC613QYSeo86cBNZgR4y32B1RQNDciFDMcwbKB2ysIYj9cYkkkFGVNsrNgUiBF2qfg4OUNKqdQz8i2_nhKD45bcDs8CiPafgDWLm5V_Oaronbnu_8_FnTcIqJykeFbpGzx8k5rK0scmZ8-PBpWHgQvLLD1lhxd6h5DHD4F_HMqRUJDgSmLn2jXeBy5BjvJ5l9LSf8HpCLTf44mfB0iIGOtBd4OXUKlLjC8.sMIo7VMtpRE95MknC1Mmw86_Bhbq13dvlsqtQn-J3HA&dib_tag=se&fpw=alm&keywords=mee%2Bmee%2Bbottle%2Bcleaner%2Bliquid&nsdOptOutParam=true&qid=1777013423&s=nowstore&sprefix=mee%2Bmee%2B%2Cnowstore%2C483&sr=1-4&th=1&linkCode=ll2&tag=amzn24704-21&linkId=0a923e9871f9e585d26d6519891ce281&ref_=as_li_ss_tl"
+  },
+  {
+    "id": "feeding-2",
+    "name": "Philips Avent Natural Response Bottle Teat",
+    "category": "Feeding",
+    "badge": "🔥 Must Have",
+    "badgeType": "musthave",
+    "image": "images/feeding/PhilipsAventNaturalResponseBottleTeat.png",
+    "site": "Amazon",
+    "affiliateLink": "https://www.amazon.in/dp/B0BWFPQB3H?th=1&linkCode=ll2&tag=amzn24704-21&linkId=3082b510e1adcd17106bd62277017a5f&ref_=as_li_ss_tl"
+  },
+  {
+    "id": "feeding-3",
+    "name": "Philips Avent Natural Plastic Baby Feeding Bottle",
+    "category": "Feeding",
+    "badge": "🔥 Must Have",
+    "badgeType": "musthave",
+    "image": "images/feeding/PhilipsAventNaturalPlasticBabyFeedingBottle.png",
+    "site": "Amazon",
+    "affiliateLink": "https://www.amazon.in/dp/B081FGM49M?th=1&linkCode=ll2&tag=amzn24704-21&linkId=07dc0b26b7324e78921f3bb62d1e7a12&ref_=as_li_ss_tl"
+  },
+  {
+    "id": "feeding-4",
+    "name": "Breast Milk Storage Bottles",
+    "category": "Feeding",
+    "badge": "⭐ Top Pick",
+    "badgeType": "toppick",
+    "image": "images/feeding/BreastMilkStorageBottles.png",
+    "site": "Amazon",
+    "affiliateLink": "https://www.amazon.in/dp/B0C8TQ4FNK?th=1&linkCode=ll2&tag=amzn24704-21&linkId=3dd55820f51158afd558557a0605a886&ref_=as_li_ss_tl"
+  },
+  {
+    "id": "feeding-5",
+    "name": "Muslin Cotton Baby Bibs",
+    "category": "Feeding",
+    "badge": "❤️ Best Seller",
+    "badgeType": "bestseller",
+    "image": "images/feeding/MuslinCottonBabyBibs.png",
+    "site": "Amazon",
+    "affiliateLink": "https://www.amazon.in/dp/B0B7J1TPTQ?th=1&linkCode=ll2&tag=amzn24704-21&linkId=38b09c5be7344ebc975f70492f8184d5&ref_=as_li_ss_tl"
+  },
+  {
+    "id": "feeding-6",
+    "name": "Philips Avent Bottle Sterilizer",
+    "category": "Feeding",
+    "badge": "🔥 Must Have",
+    "badgeType": "musthave",
+    "image": "images/feeding/PhilipsAventBottleSterilizer.png",
+    "site": "Amazon",
+    "affiliateLink": "https://www.amazon.in/dp/B0969Y1NZS?th=1&linkCode=ll2&tag=amzn24704-21&linkId=26e65c667d078a3cff0ceb2c6fcf26e1&ref_=as_li_ss_tl"
+  },
+  {
+    "id": "feeding-7",
+    "name": "Baby Feeding Pillow",
+    "category": "Feeding",
+    "badge": "💰 Budget Pick",
+    "badgeType": "budgetpick",
+    "image": "images/feeding/BabyFeedingPillow.png",
+    "site": "Amazon",
+    "affiliateLink": "https://www.amazon.in/dp/B07J1Z7KRC?&linkCode=ll2&tag=amzn24704-21&linkId=9398801c0603e9ff968f5c17246d1af5&ref_=as_li_ss_tl"
+  }
+]

@@ -1,13 +1,25 @@
+// {
+//     "id": 1,
+//     "name": "heregoesthename",
+//     "category": "clothing",
+//     "badge": "BestSeller",
+//     "badgeType": "bestseller",
+//     "image": "imaganame",
+//     "description": "Descriptiongoeshere",
+//     "site": "Amazon",
+//     "affiliateLink": "affiliatelinkgoeshere"
+// }
+
 export const categories = [
   { id: "all", label: "All" },
-  { id: "feeding", label: "Feeding" },
-  { id: "clothing", label: "Clothing" },
-  { id: "toys", label: "Toys" },
-  { id: "skincare", label: "Skincare" },
-  { id: "gear", label: "Gear" },
-  { id: "diapers", label: "Diapers" },
-  { id: "safety", label: "Safety" },
-  { id: "mom", label: "Mom" },
+  { id: "Feeding", label: "Feeding" },
+  { id: "Clothing", label: "Clothing" },
+  { id: "Toys", label: "Toys" },
+  { id: "Skincare", label: "Skincare" },
+  { id: "Gear", label: "Gear" },
+  { id: "Diapers", label: "Diapers" },
+  { id: "Safety", label: "Safety" },
+  { id: "Mom", label: "Mom" },
 ];
 
 // ❤️ Best Seller, ⭐ Top Pick, 👶 Twin Fav, 🔥 Must Have, 💰 Budget Pick

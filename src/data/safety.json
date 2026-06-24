@@ -1,0 +1,72 @@
+[
+  {
+    "id": "safety-1",
+    "name": "Baby bath Shower Cap",
+    "category": "Safety",
+    "badge": "💰 Budget Pick",
+    "badgeType": "budgetpick",
+    "image": "images/safety/BabybathShowerCap.png",
+    "site": "Amazon",
+    "affiliateLink": "https://www.amazon.in/dp/B0C7W6458R?&linkCode=ll2&tag=amzn24704-21&linkId=13f931af974f0c64a4499bec95ce9b92&ref_=as_li_ss_tl"
+  },
+  {
+    "id": "safety-2",
+    "name": "Playpen for Baby",
+    "category": "Safety",
+    "badge": "❤️ Best Seller",
+    "badgeType": "bestseller",
+    "image": "images/safety/PlaypenforBaby.png",
+    "site": "Amazon",
+    "affiliateLink": "https://www.amazon.in/dp/B0GPPKZVH5?th=1&linkCode=ll2&tag=amzn24704-21&linkId=0cc3cdbdce9369adfe7b9c814d78c1fd&ref_=as_li_ss_tl"
+  },
+  {
+    "id": "safety-3",
+    "name": "Baby Head Protector for Safety",
+    "category": "Safety",
+    "badge": "👶 Twin Fav",
+    "badgeType": "twinfav",
+    "image": "images/safety/BabyHeadProtectorforSafety.png",
+    "site": "Amazon",
+    "affiliateLink": "https://www.amazon.in/dp/B08TH362RW?almBrandId=ctnow&fpw=alm&th=1&linkCode=ll2&tag=amzn24704-21&linkId=88c50e1ed632180eb899ab9a0fe8481d&ref_=as_li_ss_tl"
+  },
+  {
+    "id": "safety-4",
+    "name": "Barricade Designer Bed Rail Guard",
+    "category": "Safety",
+    "badge": "🔥 Must Have",
+    "badgeType": "musthave",
+    "image": "images/safety/BarricadeDesignerBedRailGuard.png",
+    "site": "Amazon",
+    "affiliateLink": "https://www.amazon.in/dp/B09N9P14NZ?th=1&linkCode=ll2&tag=amzn24704-21&linkId=afcdb834a8968363b53b6c65b70ca08c&ref_=as_li_ss_tl"
+  },
+  {
+    "id": "safety-5",
+    "name": "Furniture Edge Guard and Corner Protector",
+    "category": "Safety",
+    "badge": "🔥 Must Have",
+    "badgeType": "musthave",
+    "image": "images/safety/FurnitureEdgeGuardandCornerProtector.png",
+    "site": "Amazon",
+    "affiliateLink": "https://www.amazon.in/dp/B07LFKVXGM?th=1&linkCode=ll2&tag=amzn24704-21&linkId=22fc83059bd653e39099a89efa461f42&ref_=as_li_ss_tl"
+  },
+  {
+    "id": "safety-6",
+    "name": "Baby Nail Grooming Set",
+    "category": "Safety",
+    "badge": "⭐ Top Pick",
+    "badgeType": "toppick",
+    "image": "images/safety/BabyNailGroomingSet.png",
+    "site": "Amazon",
+    "affiliateLink": "https://www.amazon.in/dp/B07SH66XZZ?th=1&linkCode=ll2&tag=amzn24704-21&linkId=4eb2c4fffe03d9f6f35960176a4058eb&ref_=as_li_ss_tl"
+  },
+  {
+    "id": "safety-7",
+    "name": "Baby Bed with Net",
+    "category": "Safety",
+    "badge": "⭐ Top Pick",
+    "badgeType": "toppick",
+    "image": "images/safety/BabyBedwithNet.png",
+    "site": "Amazon",
+    "affiliateLink": "https://www.amazon.in/dp/B087Z311J4?th=1&linkCode=ll2&tag=amzn24704-21&linkId=d62386daba6a469be8c72cc8de50ac58&ref_=as_li_ss_tl"
+  }
+]

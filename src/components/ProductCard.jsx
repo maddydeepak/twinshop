@@ -53,7 +53,7 @@ export default function ProductCard({ product, animDelay = 0 }) {
         </div> */}
 
         <a
-          href={product.affiliate}
+          href={product.affiliateLink}
           className="card-btn"
           target="_blank"
           rel="noopener noreferrer"

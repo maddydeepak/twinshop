@@ -1,0 +1,22 @@
+[
+  {
+    "id": "skincare-1",
+    "name": "Cetaphil Baby Daily Lotion",
+    "category": "Skincare",
+    "badge": "⭐ Top Pick",
+    "badgeType": "toppick",
+    "image": "images/skincare/CetaphilBabyDailyLotion.png",
+    "site": "Amazon",
+    "affiliateLink": "https://www.amazon.in/dp/B07TWXLK1P?th=1&linkCode=ll2&tag=amzn24704-21&linkId=bb6d7318fdc5bcbc830d08b4f602e3b7&ref_=as_li_ss_tl"
+  },
+  {
+    "id": "skincare-2",
+    "name": "Baby Rash Cream",
+    "category": "Skincare",
+    "badge": "🔥 Must Have",
+    "badgeType": "musthave",
+    "image": "images/skincare/BabyRashCream.png",
+    "site": "Amazon",
+    "affiliateLink": "https://www.amazon.in/dp/B07B6TRM3V?almBrandId=ctnow&fpw=alm&th=1&linkCode=ll2&tag=amzn24704-21&linkId=bcc7c5bdd473985c26017163415c3dec&ref_=as_li_ss_tl"
+  }
+]

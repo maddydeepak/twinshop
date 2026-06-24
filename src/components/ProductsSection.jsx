@@ -1,11 +1,13 @@
 import { useMemo } from "react";
 import { products, categories } from "../data/products";
 import ProductCard from "./ProductCard";
+import { allProducts } from "../data";
 
 export default function ProductsSection({ activeCategory, onCategoryChange }) {
   const filtered = useMemo(() => {
-    if (activeCategory === "all") return products;
-    return products.filter((p) => p.category === activeCategory);
+    const shuffledProducts = [...allProducts].sort(() => Math.random() - 0.5);
+    if (activeCategory === "all") return shuffledProducts;
+    return shuffledProducts.filter((p) => p.category === activeCategory);
   }, [activeCategory]);
 
   return (

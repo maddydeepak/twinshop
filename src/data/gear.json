@@ -1,0 +1,32 @@
+[
+  {
+    "id": "gear-1",
+    "name": "LuvLap Royal Hip Seat Baby Carrier",
+    "category": "Gear",
+    "badge": "❤️ Best Seller",
+    "badgeType": "bestseller",
+    "image": "images/gear/LuvLapRoyalHipSeatBabyCarrier.png",
+    "site": "Amazon",
+    "affiliateLink": "https://www.amazon.in/dp/B077BZVBG2?th=1&linkCode=ll2&tag=amzn24704-21&linkId=c2cbf85566a72166e5ff0e8510a5d608&ref_=as_li_ss_tl"
+  },
+  {
+    "id": "gear-2",
+    "name": "Baby Diaper Bag",
+    "category": "Gear",
+    "badge": "❤️ Best Seller",
+    "badgeType": "bestseller",
+    "image": "images/gear/BabyDiaperBag.png",
+    "site": "Amazon",
+    "affiliateLink": "https://www.amazon.in/dp/B07PMJGTPH?th=1&linkCode=ll2&tag=amzn24704-21&linkId=ac3740cd52b445026893cc3190cbeaf2&ref_=as_li_ss_tl"
+  },
+  {
+    "id": "gear-3",
+    "name": "Room Temperature and Humidity Monitor",
+    "category": "Gear",
+    "badge": "🔥 Must Have",
+    "badgeType": "musthave",
+    "image": "images/gear/RoomTemperatureandHumidityMonitor.png",
+    "site": "Amazon",
+    "affiliateLink": "https://www.amazon.in/dp/B079N98K93?th=1&linkCode=ll2&tag=amzn24704-21&linkId=1091ee6d88dfec8015a386596585bbc0&ref_=as_li_ss_tl"
+  }
+]
