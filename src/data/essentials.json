@@ -1,0 +1,42 @@
+[
+  {
+    "id": "essentials-1",
+    "name": "Baby Nail Grooming Set",
+    "category": "Essentials",
+    "badge": "⭐ Top Pick",
+    "badgeType": "toppick",
+    "image": "images/essentials/BabyNailGroomingSet.png",
+    "site": "Amazon",
+    "affiliateLink": "https://www.amazon.in/dp/B07SH66XZZ?th=1&linkCode=ll2&tag=amzn24704-21&linkId=4eb2c4fffe03d9f6f35960176a4058eb&ref_=as_li_ss_tl"
+  },
+  {
+    "id": "essentials-2",
+    "name": "Room Temperature and Humidity Monitor",
+    "category": "Essentials",
+    "badge": "🔥 Must Have",
+    "badgeType": "musthave",
+    "image": "images/essentials/RoomTemperatureandHumidityMonitor.png",
+    "site": "Amazon",
+    "affiliateLink": "https://www.amazon.in/dp/B079N98K93?th=1&linkCode=ll2&tag=amzn24704-21&linkId=1091ee6d88dfec8015a386596585bbc0&ref_=as_li_ss_tl"
+  },
+  {
+    "id": "essentials-3",
+    "name": "Baby Diaper Bag",
+    "category": "Essentials",
+    "badge": "❤️ Best Seller",
+    "badgeType": "bestseller",
+    "image": "images/essentials/BabyDiaperBag.png",
+    "site": "Amazon",
+    "affiliateLink": "https://www.amazon.in/dp/B07PMJGTPH?th=1&linkCode=ll2&tag=amzn24704-21&linkId=ac3740cd52b445026893cc3190cbeaf2&ref_=as_li_ss_tl"
+  },
+  {
+    "id": "essentials-4",
+    "name": "Baby Essentials on FirstCry",
+    "category": "Essentials",
+    "badge": "🔥 Must Have",
+    "badgeType": "musthave",
+    "image": "images/essentials/BabyEssentialsonFirstCry.png",
+    "site": "FirstCry",
+    "affiliateLink": "https://fclinks.firstcry.com/obZe/ygredoho"
+  }
+]

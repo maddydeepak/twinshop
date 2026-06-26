@@ -18,5 +18,15 @@
     "image": "images/diapers/PampersActiveBabyTapedDiapers.png",
     "site": "Amazon",
     "affiliateLink": "https://www.amazon.in/dp/B081QTNF7V?almBrandId=ctnow&fpw=alm&th=1&linkCode=ll2&tag=amzn24704-21&linkId=563ab100ab8580b78b53a6fc5070d14e&ref_=as_li_ss_tl"
+  },
+  {
+    "id": "diapers-3",
+    "name": "Reusable Diapers on FirstCry",
+    "category": "Diapers",
+    "badge": "🔥 Must Have",
+    "badgeType": "musthave",
+    "image": "images/diapers/ReusableDiapersonFirstCry.png",
+    "site": "FirstCry",
+    "affiliateLink": "https://fclinks.firstcry.com/obZe/owsyjv82"
   }
 ]

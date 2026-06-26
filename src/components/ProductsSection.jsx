@@ -1,5 +1,5 @@
 import { useMemo } from "react";
-import { products, categories } from "../data/products";
+import { categories } from "../data/products";
 import ProductCard from "./ProductCard";
 import { allProducts } from "../data";
 

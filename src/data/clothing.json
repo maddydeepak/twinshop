@@ -98,5 +98,15 @@
     "image": "images/clothing/CottonMuslinBabySwaddle.png",
     "site": "Amazon",
     "affiliateLink": "https://www.amazon.in/dp/B09PLBXKFG?th=1&linkCode=ll2&tag=amzn24704-21&linkId=8fbd949adfe0561d1c53d5840c427e50&ref_=as_li_ss_tl"
+  },
+  {
+    "id": "clothing-11",
+    "name": "Baby Cloths on FirstCry",
+    "category": "Clothing",
+    "badge": "🔥 Must Have",
+    "badgeType": "musthave",
+    "image": "images/clothing/BabyClothsonFirstCry.png",
+    "site": "FirstCry",
+    "affiliateLink": "https://fclinks.firstcry.com/obZe/roadowcr"
   }
 ]

@@ -2,7 +2,7 @@
   {
     "id": "mom-1",
     "name": "Postpartum Panjiri",
-    "category": "Mom",
+    "category": "Mom Care",
     "badge": "❤️ Best Seller",
     "badgeType": "bestseller",
     "image": "images/mom/PostpartumPanjiri.png",
@@ -12,7 +12,7 @@
   {
     "id": "mom-2",
     "name": "Postpartum Ajwain (Carom Seeds) Laddoos",
-    "category": "Mom",
+    "category": "Mom Care",
     "badge": "⭐ Top Pick",
     "badgeType": "toppick",
     "image": "images/mom/PostpartumAjwain(CaromSeeds)Laddoos.png",
@@ -22,7 +22,7 @@
   {
     "id": "mom-3",
     "name": "Postpartum Gond Laddu (Dink or Edible Gum)",
-    "category": "Mom",
+    "category": "Mom Care",
     "badge": "💰 Budget Pick",
     "badgeType": "budgetpick",
     "image": "images/mom/PostpartumGondLaddu(DinkorEdibleGum).png",
@@ -32,7 +32,7 @@
   {
     "id": "mom-4",
     "name": "Lactify Lactation Protein Powder with Shatavari",
-    "category": "Mom",
+    "category": "Mom Care",
     "badge": "⭐ Top Pick",
     "badgeType": "toppick",
     "image": "images/mom/LactifyLactationProteinPowderwithShatavari.png",
@@ -42,7 +42,7 @@
   {
     "id": "mom-5",
     "name": "Baby Breast Milk Storage Bags",
-    "category": "Mom",
+    "category": "Mom Care",
     "badge": "🔥 Must Have",
     "badgeType": "musthave",
     "image": "images/mom/BabyBreastMilkStorageBags.png",
@@ -52,7 +52,7 @@
   {
     "id": "mom-6",
     "name": "Women's Cotton Maternity Nighty",
-    "category": "Mom",
+    "category": "Mom Care",
     "badge": "❤️ Best Seller",
     "badgeType": "bestseller",
     "image": "images/mom/Women'sCottonMaternityNighty.png",
@@ -62,7 +62,7 @@
   {
     "id": "mom-7",
     "name": "Women's Cotton Feeding Nighty",
-    "category": "Mom",
+    "category": "Mom Care",
     "badge": "❤️ Best Seller",
     "badgeType": "bestseller",
     "image": "images/mom/Women'sCottonFeedingNighty.png",
@@ -72,7 +72,7 @@
   {
     "id": "mom-8",
     "name": "Women's Cotton Printed Feeding Nursing Maternity Nighty",
-    "category": "Mom",
+    "category": "Mom Care",
     "badge": "💰 Budget Pick",
     "badgeType": "budgetpick",
     "image": "images/mom/Women'sCottonPrintedFeedingNursingMaternityNighty.png",
@@ -82,7 +82,7 @@
   {
     "id": "mom-9",
     "name": "Nursing Breast Pads",
-    "category": "Mom",
+    "category": "Mom Care",
     "badge": "🔥 Must Have",
     "badgeType": "musthave",
     "image": "images/mom/NursingBreastPads.png",
@@ -92,7 +92,7 @@
   {
     "id": "mom-10",
     "name": "Thermosteel Water Bottle",
-    "category": "Mom",
+    "category": "Mom Care",
     "badge": "🔥 Must Have",
     "badgeType": "musthave",
     "image": "images/mom/ThermosteelWaterBottle.png",
@@ -102,7 +102,7 @@
   {
     "id": "mom-11",
     "name": "Toilet Seat Sanitizer",
-    "category": "Mom",
+    "category": "Mom Care",
     "badge": "🔥 Must Have",
     "badgeType": "musthave",
     "image": "images/mom/ToiletSeatSanitizer.png",
